@@ -9,13 +9,13 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and Vue.js**
 
-- 👨‍💻 All of my projects are available **at [my website](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
+- 👨‍💻 All of my projects are available **at [coming soon](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
 
-- 📝 I regularly write articles **on [my website blog section](https://www.albertofabro.com/blog)**
+- 📝 I regularly write articles **on [coming soon](https://www.albertofabro.com/blog)**
 
-- 📫 You can reach me **through my [website](https://www.albertofabro.com#contact) or via [email](mailto:)**
+- 📫 You can reach me **through my [coming soon](https://www.albertofabro.com#contact) or via [coming soon](mailto:)**
 
 
 ## 🌐 Socials:
