@@ -11,11 +11,11 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Javascript and Vue.js**
 
-- 👨‍💻 All of my projects are available **at [coming soon](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
+- 👨‍💻 All of my projects are available **on my [website](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
 
-- 📝 I regularly write articles **on [coming soon](https://www.albertofabro.com/blog)**
+- 📝 I often write articles **on [my website blog section](https://www.albertofabro.com/blog)**
 
-- 📫 You can reach me **through my [coming soon](https://www.albertofabro.com#contact) or via [coming soon](mailto:)**
+- 📫 You can reach me **through my [website contact form](https://www.albertofabro.com#contact) or via [email](mailto:alberto.fabro@outlook.com)**
 
 
 ## 🌐 Socials:
