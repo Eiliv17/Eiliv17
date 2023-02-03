@@ -15,7 +15,7 @@
 
 - 📝 I often write articles **on [my website blog section](https://www.albertofabro.com/blog)**
 
-- 📫 You can reach me **through my [website contact form](https://www.albertofabro.com#contact) or via [email](mailto:alberto.fabro@outlook.com)**
+- 📫 You can reach me **through my [website contact form](https://www.albertofabro.com/contact) or via [email](mailto:alberto.fabro@outlook.com)**
 
 
 ## 🌐 Socials:
