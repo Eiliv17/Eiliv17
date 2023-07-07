@@ -9,13 +9,13 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Javascript and Vue.js**
+- 🌱 I’m currently learning **GraphQL & Tailwind CSS**
 
-- 👨‍💻 All of my projects are available **on my [website](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
+- 👨‍💻 All of my projects are available **on my [returning soon](https://www.albertofabro.com/projects) and on my [github](https://github.com/Eiliv17)**
 
-- 📝 I often write articles **on [my website blog section](https://www.albertofabro.com/blog)**
+- 📝 I often write articles **on [returning soon](https://www.albertofabro.com/blog)**
 
-- 📫 You can reach me **through my [website contact form](https://www.albertofabro.com/contact) or via [email](mailto:alberto.fabro@outlook.com)**
+- 📫 You can reach me **through my [returning soon](https://www.albertofabro.com/contact) or via [email](mailto:alberto.fabro@outlook.com)**
 
 
 ## 🌐 Socials:
@@ -44,10 +44,16 @@
                 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
                 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+                <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js">
+                <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify">
             </td>
             <td style="width: 33%">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+                <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+                <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma.js">
                 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+                <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
                 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
             </td>
             <td style="width: 33%">
